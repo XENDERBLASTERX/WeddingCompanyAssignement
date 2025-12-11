@@ -2,7 +2,6 @@
 
 A pixel-perfect, accessible quiz web application built for a frontend internship portfolio. Features smooth animations, full keyboard navigation, and WCAG 2.1 compliance.
 
-![Quiz Screenshot](./docs/quiz-preview.png)
 
 ## ✨ Features
 
@@ -152,10 +151,4 @@ This project was built with a focus on clean, maintainable code and attention to
 3. **Design System**: All colors defined as CSS variables in Tailwind for easy theming
 4. **Accessibility First**: ARIA attributes added during initial implementation, not as an afterthought
 
-## 📄 License
 
-MIT License - feel free to use this for your own portfolio!
-
----
-
-**Time Spent**: ~4 hours (design system setup, component architecture, animations, accessibility, documentation)
